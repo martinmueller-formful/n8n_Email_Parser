@@ -2,7 +2,7 @@
 Email Parser für n8n 
 
 
-Wprkflow:
+Workflow:
 
 Der Schedule Trigger startet den Workflow automatisch in einem festen Intervall, zum Beispiel alle 15 Minuten. Er macht selbst noch nichts mit Daten, sondern sagt n8n nur: „Starte jetzt den Job-Import.“
 
